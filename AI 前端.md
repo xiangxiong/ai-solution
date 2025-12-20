@@ -6,7 +6,7 @@
   ○ AI 技术文档、AI 产品.
 ● dify 开源产品，
   ○ reactFlow, zustand.
-● built in AI , google nano   端侧 AI
+● built in AI , google nano,  端侧 AI
 ● 端侧 AI https://zhuanlan.zhihu.com/p/711100189 
   ○ 边缘计算.
   ○ 边缘计算产品.
